@@ -18,7 +18,7 @@
 ![Lovable](https://img.shields.io/badge/gebaut%20mit-Lovable-1F6F78?style=flat-square)
 ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-6E655B?style=flat-square)
 
-[Worum es geht](#worum-es-geht) · [Ablauf](#der-weg-in-elf-phasen) · [Start](#in-fünf-minuten-startklar) · [Führung](#so-führt-dich-claude) · [Phasen](#alle-phasen-im-detail) · [Ergebnis](#was-am-ende-entsteht) · [Lehre](#für-dozentinnen-und-dozenten)
+[Worum es geht](#worum-es-geht) · [Ablauf](#der-weg-in-elf-phasen) · [Start](#in-vier-schritten-startklar) · [Führung](#so-führt-dich-claude) · [Phasen](#alle-phasen-im-detail) · [Ergebnis](#was-am-ende-entsteht) · [Lehre](#für-dozentinnen-und-dozenten)
 
 </div>
 
@@ -69,10 +69,10 @@ Fünf Werkzeuge, ein Ablauf. Claude plant mit dir, ein Design-Werkzeug gestaltet
 
 <br>
 
-<a id="in-fünf-minuten-startklar"></a>
+<a id="in-vier-schritten-startklar"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/img/h-start-dark.png">
-  <img src="assets/img/h-start-light.png" alt="03 In fünf Minuten startklar" width="100%">
+  <img src="assets/img/h-start-light.png" alt="03 In vier Schritten startklar" width="100%">
 </picture>
 
 Du brauchst ein Konto bei [claude.ai](https://claude.ai) und später eins bei [lovable.dev](https://lovable.dev).
@@ -81,19 +81,27 @@ Du brauchst ein Konto bei [claude.ai](https://claude.ai) und später eins bei [l
 
 Oben auf **Code → Download ZIP** klicken und die ZIP-Datei entpacken. Du brauchst den Ordner [`projekt-dateien`](projekt-dateien).
 
-### 2 · Claude-Projekt anlegen
+### 2 · Claude-Projekt anlegen und Anweisung einfügen
 
-In Claude links auf **Projekte**, dann auf **Neues Projekt**. Gib ihm einen Namen, zum Beispiel den deiner App.
+In Claude links auf **Projekte**, dann auf **Neues Projekt**. Es öffnet sich das Fenster „Projekt erstellen“:
+
+| Feld | Was du einträgst |
+|---|---|
+| **Woran arbeitest du?** | Ein Name für dein Projekt, zum Beispiel der deiner App |
+| **Was möchtest du erreichen?** | Den kompletten Text aus [`00 - Projektanweisung (System-Prompt).md`](projekt-dateien/00%20-%20Projektanweisung%20%28System-Prompt%29.md) |
+
+Dann auf **Projekt erstellen** klicken.
 
 <img src="assets/screens/02-projekt-erstellen.png" alt="Dialog Projekt erstellen in Claude" width="520">
 
-### 3 · Anweisungen einfügen
-
-Öffne [`00 - Projektanweisung (System-Prompt).md`](projekt-dateien/00%20-%20Projektanweisung%20%28System-Prompt%29.md), kopiere den kompletten Text und füge ihn im Projekt rechts unter **Anweisungen** ein.
+So sieht das Projekt danach aus. Oben steht der Anfang deiner Anweisung:
 
 <img src="assets/screens/06-anweisungen-gesetzt.png" alt="Projekt mit gesetzten Anweisungen" width="720">
 
-### 4 · Dateien hochladen
+> [!NOTE]
+> Hast du das Feld leer gelassen? Dann trägst du den Text rechts unter **Anweisungen** → **Hinzufügen** nach.
+
+### 3 · Dateien hochladen
 
 Rechts bei **Kontext** auf **Hinzufügen** und **Vom Gerät hochladen**. Lade alle Dateien aus `projekt-dateien` hoch, außer der Projektanweisung. Am Ende stehen dort 15 Dateien.
 
@@ -104,7 +112,7 @@ Rechts bei **Kontext** auf **Hinzufügen** und **Vom Gerät hochladen**. Lade al
 </tr>
 </table>
 
-### 5 · Ersten Chat starten
+### 4 · Ersten Chat starten
 
 Neuen Chat im Projekt öffnen und den Startsatz senden:
 
