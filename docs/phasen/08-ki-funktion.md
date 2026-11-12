@@ -40,6 +40,13 @@ Phase 8: KI-Funktion
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-08-dark.png">
+  <img src="../../assets/img/beispiel-08-light.png" alt="Beispiel-Ergebnis Phase 8" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **KI-STECKBRIEF – [App-Name]** | Funktion, Ein- und Ausgabe, System-Prompt, Grenzen, Datenschutz | Übergabe für Phase 9 bis 11 |

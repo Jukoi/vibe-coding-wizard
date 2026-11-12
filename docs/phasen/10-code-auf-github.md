@@ -40,6 +40,10 @@ Phase 10: Code auf GitHub
 
 ## Das kommt raus
 
+So sieht ein echtes Repository nach Phase 10 aus:
+
+<img src="../../assets/screens/01-repo-beispiel.png" alt="Echtes Repository nach Phase 10" width="100%">
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **GitHub-Repository** | Code, `docs/` mit allen Übergaben, README | bleibt dein Archiv und Portfolio |

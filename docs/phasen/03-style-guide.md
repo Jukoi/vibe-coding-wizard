@@ -34,6 +34,13 @@ Phase 3: Style Guide
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-03-dark.png">
+  <img src="../../assets/img/beispiel-03-light.png" alt="Beispiel-Ergebnis Phase 3" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **STYLE GUIDE – [App-Name]** | Höchstens 1.500 Zeichen: Stimmung, Vorbilder, Farben mit Hex-Code, Schriften, Tonalität, Do & Don't | Übergabe für Design, Lovable und Pitch Deck |

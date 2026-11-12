@@ -37,6 +37,13 @@ Phase 4: Design
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-04-dark.png">
+  <img src="../../assets/img/beispiel-04-light.png" alt="Beispiel-Ergebnis Phase 4" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **DESIGN – [App-Name]** | Alle Screens gestaltet, in Claude Design oder als Artefakt | geht als Datei oder direkt an Lovable |

@@ -38,6 +38,13 @@ Phase 11: GitHub-Auftritt
 
 ## Das kommt raus
 
+Das Ergebnis ist eine Startseite wie die dieses Repositorys:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/banner-dark.png">
+  <img src="../../assets/img/banner-light.png" alt="Ergebnis Phase 11: eine gestaltete README wie diese" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **README.md** | Banner, Badges, Screenshots, Features, Diagramme, Design System, Roadmap | Startseite deines Repos |

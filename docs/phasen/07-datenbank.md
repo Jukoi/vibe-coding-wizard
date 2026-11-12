@@ -40,6 +40,13 @@ Phase 7: Datenbank
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-07-dark.png">
+  <img src="../../assets/img/beispiel-07-light.png" alt="Beispiel-Ergebnis Phase 7" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **DATENMODELL – [App-Name]** | Tabellen, Felder, Storage, Zugriffsregeln, Datenschutz | Übergabe für Phase 8 bis 11 |

@@ -256,15 +256,30 @@ Das **Projektbuch** begleitet alle Phasen. Es hält Entscheidungen, Stand und Pr
   <img src="assets/img/h-ergebnis-light.png" alt="06 Was am Ende entsteht" width="100%">
 </picture>
 
-| Phase | Ergebnis |
-|---|---|
-| 1 bis 3 | Steckbrief, klickbare Wireframes, Style Guide |
-| 4 | Ein Design für alle Screens |
-| 5 bis 8 | Eine laufende App in Lovable, auf Wunsch mit Datenbank und KI-Funktion |
-| 9 | Ein Pitch Deck für die Präsentation |
-| 10 und 11 | Ein eigenes GitHub-Repository mit Code und Dokumentation |
+Jede Phase liefert ein greifbares Ergebnis. Hier am Beispiel der erfundenen Haushaltsbuch-App **„Groschen“** mit der Persona Paula. Ein Klick öffnet die Phase.
 
-So sieht ein Repository nach Phase 10 aus, hier das Beispiel einer Haushalts-App:
+<table>
+<tr>
+<td width="33%" valign="top"><a href="docs/phasen/01-idee-finden.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-01-dark.png"><img src="assets/img/beispiel-01-light.png" alt="Beispiel Phase 1" width="100%"></picture></a><br><sub><b>01 · Idee finden</b></sub></td>
+<td width="33%" valign="top"><a href="docs/phasen/02-wireframes.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-02-dark.png"><img src="assets/img/beispiel-02-light.png" alt="Beispiel Phase 2" width="100%"></picture></a><br><sub><b>02 · Wireframes</b></sub></td>
+<td width="33%" valign="top"><a href="docs/phasen/03-style-guide.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-03-dark.png"><img src="assets/img/beispiel-03-light.png" alt="Beispiel Phase 3" width="100%"></picture></a><br><sub><b>03 · Style Guide</b></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/phasen/04-design.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-04-dark.png"><img src="assets/img/beispiel-04-light.png" alt="Beispiel Phase 4" width="100%"></picture></a><br><sub><b>04 · Design</b></sub></td>
+<td width="33%" valign="top"><a href="docs/phasen/05-start-in-lovable.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-05-dark.png"><img src="assets/img/beispiel-05-light.png" alt="Beispiel Phase 5" width="100%"></picture></a><br><sub><b>05 · Start in Lovable</b></sub></td>
+<td width="33%" valign="top"><a href="docs/phasen/06-iterieren.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-06-dark.png"><img src="assets/img/beispiel-06-light.png" alt="Beispiel Phase 6" width="100%"></picture></a><br><sub><b>06 · Iterieren</b></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="docs/phasen/07-datenbank.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-07-dark.png"><img src="assets/img/beispiel-07-light.png" alt="Beispiel Phase 7" width="100%"></picture></a><br><sub><b>07 · Datenbank</b></sub></td>
+<td width="33%" valign="top"><a href="docs/phasen/08-ki-funktion.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-08-dark.png"><img src="assets/img/beispiel-08-light.png" alt="Beispiel Phase 8" width="100%"></picture></a><br><sub><b>08 · KI-Funktion</b></sub></td>
+<td width="33%" valign="top"><a href="docs/phasen/09-pitch-deck.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/beispiel-09-dark.png"><img src="assets/img/beispiel-09-light.png" alt="Beispiel Phase 9" width="100%"></picture></a><br><sub><b>09 · Pitch Deck</b></sub></td>
+</tr>
+</table>
+
+> [!NOTE]
+> „Groschen“ ist ein ausgedachtes Beispiel. Deine eigene App sieht anders aus, der Ablauf ist derselbe.
+
+Und so sieht ein echtes Repository nach Phase 10 aus, aus einem Testlauf mit der App „HappyHaus“:
 
 <img src="assets/screens/01-repo-beispiel.png" alt="Beispiel-Repository happyhaus-app nach Phase 10" width="720">
 

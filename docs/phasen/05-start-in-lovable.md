@@ -34,6 +34,13 @@ Phase 5: Start in Lovable
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-05-dark.png">
+  <img src="../../assets/img/beispiel-05-light.png" alt="Beispiel-Ergebnis Phase 5" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **Start-Prompt** | Auftrag, Produkt, Screens mit Logik, Design-Regeln, Etappen | in Lovable ins große Eingabefeld |

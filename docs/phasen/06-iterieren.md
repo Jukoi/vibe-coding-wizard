@@ -37,6 +37,13 @@ Phase 6: Iterieren
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-06-dark.png">
+  <img src="../../assets/img/beispiel-06-light.png" alt="Beispiel-Ergebnis Phase 6" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **PROMPT – [Kurzname]** | User Story, Kontext, Akzeptanzkriterien, Gestaltung, „Nicht verändern“ | in Lovable einfügen |

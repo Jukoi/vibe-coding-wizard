@@ -39,6 +39,13 @@ Phase 1: Idee finden
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-01-dark.png">
+  <img src="../../assets/img/beispiel-01-light.png" alt="Beispiel-Ergebnis Phase 1" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **STECKBRIEF – [App-Name]** | Problem, Persona, Kernnutzen, MVP mit User Stories, Daten, Abgrenzung, Wirkung, Ideen für später | Übergabe für alle weiteren Phasen |

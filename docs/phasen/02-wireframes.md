@@ -38,6 +38,13 @@ Phase 2: Wireframes
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-02-dark.png">
+  <img src="../../assets/img/beispiel-02-light.png" alt="Beispiel-Ergebnis Phase 2" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **WIREFRAMES – [App-Name]** | Ein Artefakt mit drei Ansichten: Übersicht, klickbarer Prototyp, Board mit allen Screens | Grundlage für Design und Lovable |

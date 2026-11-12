@@ -36,6 +36,13 @@ Phase 9: Pitch Deck
 
 ## Das kommt raus
 
+So sieht das Ergebnis aus, am Beispiel der erfundenen Haushaltsbuch-App „Groschen“:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/img/beispiel-09-dark.png">
+  <img src="../../assets/img/beispiel-09-light.png" alt="Beispiel-Ergebnis Phase 9" width="100%">
+</picture>
+
 | Ergebnis | Inhalt | Wofür |
 |---|---|---|
 | **PITCH DECK – [App-Name]** | Bis zu acht Slides mit Sprechtext | als PowerPoint oder PDF herunterladbar |
