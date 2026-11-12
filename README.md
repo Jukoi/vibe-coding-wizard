@@ -157,19 +157,50 @@ Einzelne Phasen haben zusätzliche Befehle, zum Beispiel `neu` und `fertig` beim
   <img src="assets/img/h-phasen-light.png" alt="05 Alle Phasen im Detail" width="100%">
 </picture>
 
-| # | Phase | Startsatz | Ergebnis | Wo |
-|---|---|---|---|---|
-| `01` | [Idee finden](projekt-dateien/Phase%2001%20-%20Idee%20finden.md) | `Phase 1: Idee finden` | „STECKBRIEF“: Problem, Persona, MVP, User Stories | Claude |
-| `02` | [Wireframes](projekt-dateien/Phase%2002%20-%20Wireframes.md) | `Phase 2: Wireframes` | Klick-Prototyp, Sitemap, User Flow, Board | Claude |
-| `03` | [Style Guide](projekt-dateien/Phase%2003%20-%20Style%20Guide.md) | `Phase 3: Style Guide` | Stimmung, Farben, Schriften, Tonalität | Claude |
-| `04` | [Design](projekt-dateien/Phase%2004%20-%20Design.md) | `Phase 4: Design` | Gestaltete Screens in Claude Design oder Google Stitch | Claude / Stitch |
-| `05` | [Start in Lovable](projekt-dateien/Phase%2005%20-%20Start%20in%20Lovable.md) | `Phase 5: Start in Lovable` | Start-Prompt und Design-Dateien für Lovable | Claude → Lovable |
-| `06` | [Iterieren](projekt-dateien/Phase%2006%20-%20Iterieren.md) | `Phase 6: Iterieren` | Je Wunsch ein Prompt mit User Story und Akzeptanzkriterien | Claude → Lovable |
-| `07` | [Datenbank](projekt-dateien/Phase%2007%20-%20Datenbank.md) | `Phase 7: Datenbank` | Datenmodell und Prompts je Stufe (Supabase) | Claude → Lovable |
-| `08` | [KI-Funktion](projekt-dateien/Phase%2008%20-%20KI-Funktion.md) | `Phase 8: KI-Funktion` | KI-Steckbrief und Prompts, API-Key in den Secrets | Claude → Lovable |
-| `09` | [Pitch Deck](projekt-dateien/Phase%2009%20-%20Pitch%20Deck.md) | `Phase 9: Pitch Deck` | Bis zu acht Slides im Design der App | Claude |
-| `10` | [Code auf GitHub](projekt-dateien/Phase%2010%20-%20Code%20auf%20GitHub.md) | `Phase 10: Code auf GitHub` | Repository mit Code, Unterlagen und README | Claude → GitHub |
-| `11` | [GitHub-Auftritt](projekt-dateien/Phase%2011%20-%20GitHub-Auftritt.md) | `Phase 11: GitHub-Auftritt` | Gestaltete README wie diese hier | Claude → GitHub |
+Jede Karte führt zu einer eigenen Seite mit Ziel, Schritten, Ergebnissen und deinem Teil.
+
+<table>
+<tr>
+<td width="33%"><a href="docs/phasen/01-idee-finden.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-01-dark.png"><img src="assets/img/card-01-light.png" alt="Phase 1: Idee finden" width="100%"></picture></a></td>
+<td width="33%"><a href="docs/phasen/02-wireframes.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-02-dark.png"><img src="assets/img/card-02-light.png" alt="Phase 2: Wireframes" width="100%"></picture></a></td>
+<td width="33%"><a href="docs/phasen/03-style-guide.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-03-dark.png"><img src="assets/img/card-03-light.png" alt="Phase 3: Style Guide" width="100%"></picture></a></td>
+</tr>
+<tr>
+<td width="33%"><a href="docs/phasen/04-design.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-04-dark.png"><img src="assets/img/card-04-light.png" alt="Phase 4: Design" width="100%"></picture></a></td>
+<td width="33%"><a href="docs/phasen/05-start-in-lovable.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-05-dark.png"><img src="assets/img/card-05-light.png" alt="Phase 5: Start in Lovable" width="100%"></picture></a></td>
+<td width="33%"><a href="docs/phasen/06-iterieren.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-06-dark.png"><img src="assets/img/card-06-light.png" alt="Phase 6: Iterieren" width="100%"></picture></a></td>
+</tr>
+<tr>
+<td width="33%"><a href="docs/phasen/07-datenbank.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-07-dark.png"><img src="assets/img/card-07-light.png" alt="Phase 7: Datenbank" width="100%"></picture></a></td>
+<td width="33%"><a href="docs/phasen/08-ki-funktion.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-08-dark.png"><img src="assets/img/card-08-light.png" alt="Phase 8: KI-Funktion" width="100%"></picture></a></td>
+<td width="33%"><a href="docs/phasen/09-pitch-deck.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-09-dark.png"><img src="assets/img/card-09-light.png" alt="Phase 9: Pitch Deck" width="100%"></picture></a></td>
+</tr>
+<tr>
+<td width="33%"><a href="docs/phasen/10-code-auf-github.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-10-dark.png"><img src="assets/img/card-10-light.png" alt="Phase 10: Code auf GitHub" width="100%"></picture></a></td>
+<td width="33%"><a href="docs/phasen/11-github-auftritt.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/card-11-dark.png"><img src="assets/img/card-11-light.png" alt="Phase 11: GitHub-Auftritt" width="100%"></picture></a></td>
+</tr>
+</table>
+
+<details>
+<summary><b>Alle Startsätze auf einen Blick</b></summary>
+
+<br>
+
+| # | Phase | Startsatz | Ergebnis |
+|---|---|---|---|
+| `01` | [Idee finden](docs/phasen/01-idee-finden.md) | `Phase 1: Idee finden` | STECKBRIEF – [App-Name] |
+| `02` | [Wireframes](docs/phasen/02-wireframes.md) | `Phase 2: Wireframes` | WIREFRAMES – [App-Name] |
+| `03` | [Style Guide](docs/phasen/03-style-guide.md) | `Phase 3: Style Guide` | STYLE GUIDE – [App-Name] |
+| `04` | [Design](docs/phasen/04-design.md) | `Phase 4: Design` | DESIGN – [App-Name] |
+| `05` | [Start in Lovable](docs/phasen/05-start-in-lovable.md) | `Phase 5: Start in Lovable` | Start-Prompt |
+| `06` | [Iterieren](docs/phasen/06-iterieren.md) | `Phase 6: Iterieren` | PROMPT – [Kurzname] |
+| `07` | [Datenbank](docs/phasen/07-datenbank.md) | `Phase 7: Datenbank` | DATENMODELL – [App-Name] |
+| `08` | [KI-Funktion](docs/phasen/08-ki-funktion.md) | `Phase 8: KI-Funktion` | KI-STECKBRIEF – [App-Name] |
+| `09` | [Pitch Deck](docs/phasen/09-pitch-deck.md) | `Phase 9: Pitch Deck` | PITCH DECK – [App-Name] |
+| `10` | [Code auf GitHub](docs/phasen/10-code-auf-github.md) | `Phase 10: Code auf GitHub` | GitHub-Repository |
+| `11` | [GitHub-Auftritt](docs/phasen/11-github-auftritt.md) | `Phase 11: GitHub-Auftritt` | README.md |
+
+</details>
 
 <details>
 <summary><b>Hilfen, jederzeit in einem eigenen Chat</b></summary>
@@ -278,6 +309,8 @@ vibe-coding-wizard/
 │   ├── …
 │   ├── Phase 11 - GitHub-Auftritt.md
 │   └── Hilfe - ….md                               → in den Kontext
+├── docs/
+│   └── phasen/     eine Seite je Phase: Ziel, Schritte, Ergebnis, dein Teil
 └── assets/
     ├── img/        Grafiken dieser Seite
     └── screens/    Screenshots aus Claude und GitHub
