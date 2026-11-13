@@ -308,7 +308,7 @@ Der Ablauf ist für eine Schulungswoche gebaut und funktioniert genauso allein.
 - **Antwortformat:** Aufbau, Fragen und Kurzbefehle stehen einmal zentral in der Projektanweisung. Änderst du sie dort, gelten sie in allen Phasen.
 
 > [!TIP]
-> Spiel Phase 1 einmal selbst mit einer „schwierigen“ Testperson durch: nur mit „weiß nicht“ und „ok“ antworten. Claude sollte den Chat trotzdem bis zum Steckbrief tragen.
+> Spiel Phase 1 einmal selbst mit einer „herausfordernden“ Testperson durch: nur mit „weiß nicht“ und „ok“ antworten. Claude sollte den Chat trotzdem bis zum Steckbrief tragen.
 
 <br>
 
