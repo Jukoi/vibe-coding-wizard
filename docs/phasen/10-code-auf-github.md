@@ -14,7 +14,9 @@ Dein Code und deine Projektunterlagen landen sicher in einem eigenen GitHub-Repo
 
 ## Startsatz
 
-Neuer Chat im Projekt, dann senden:
+> [!IMPORTANT]
+> **Neuer Chat für diese Phase.** Öffne im Projekt einen neuen Chat und sende dort den Startsatz. Nie im Chat der vorherigen Phase weitermachen.
+
 
 ```
 Phase 10: Code auf GitHub

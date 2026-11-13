@@ -14,7 +14,9 @@ Du findest eine KI-Funktion, die deiner Persona echte Mühe spart, und baust sie
 
 ## Startsatz
 
-Neuer Chat im Projekt, dann senden:
+> [!IMPORTANT]
+> **Neuer Chat für diese Phase.** Öffne im Projekt einen neuen Chat und sende dort den Startsatz. Nie im Chat der vorherigen Phase weitermachen.
+
 
 ```
 Phase 8: KI-Funktion

@@ -12,7 +12,9 @@ Aus dem Steckbrief werden Screens, eine Sitemap, ein User Flow und graue Wirefra
 
 ## Startsatz
 
-Neuer Chat im Projekt, dann senden:
+> [!IMPORTANT]
+> **Neuer Chat für diese Phase.** Öffne im Projekt einen neuen Chat und sende dort den Startsatz. Nie im Chat der vorherigen Phase weitermachen.
+
 
 ```
 Phase 2: Wireframes

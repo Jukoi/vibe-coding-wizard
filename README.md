@@ -42,6 +42,12 @@ Du hast eine Idee für eine App, kannst aber nicht programmieren. Dieses Reposit
 > [!TIP]
 > Am meisten lernst du mit einer Idee, die du selbst nutzen willst. Du darfst die wichtigste Nutzerin oder der wichtigste Nutzer deiner App sein.
 
+> [!IMPORTANT]
+> ### Die wichtigste Regel: Jede Phase in einem neuen Chat
+> Startest du eine Phase, öffnest du **immer einen neuen Chat** im Projekt und sendest dort den Startsatz. Mach nie zwei Phasen im selben Chat.
+>
+> **Warum?** Ein langer Chat wird für Claude unübersichtlich: Frühere Details verdrängen die Anweisungen der neuen Phase, die Antworten werden ungenauer. Ein neuer Chat startet sauber und liest nur das, was zählt: Projektanweisung, Phasen-Prompt und deine Übergaben im Projektwissen.
+
 <br>
 
 <a id="der-weg-in-elf-phasen"></a>
@@ -121,7 +127,12 @@ Phase 1: Idee finden
 ```
 
 > [!IMPORTANT]
-> **Jede Phase bekommt einen eigenen Chat.** Am Ende jeder Phase nennt dir Claude den Startsatz der nächsten. Der Startsatz wird zum Titel des Chats, so findest du jede Phase wieder.
+> **Jede Phase in einem neuen Chat.** Am Ende jeder Phase nennt dir Claude den Startsatz der nächsten. Dann:
+> 1. Zurück ins Projekt
+> 2. **Neuen Chat** öffnen
+> 3. Startsatz senden
+>
+> Der Startsatz wird zum Titel des Chats, so findest du jede Phase wieder. Schreibst du den Startsatz in den alten Chat, schickt Claude dich in einen neuen.
 
 <br>
 

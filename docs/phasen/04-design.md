@@ -12,7 +12,9 @@ Aus Wireframes und Style Guide werden gestaltete Screens. Du wählst zuerst, wo 
 
 ## Startsatz
 
-Neuer Chat im Projekt, dann senden:
+> [!IMPORTANT]
+> **Neuer Chat für diese Phase.** Öffne im Projekt einen neuen Chat und sende dort den Startsatz. Nie im Chat der vorherigen Phase weitermachen.
+
 
 ```
 Phase 4: Design

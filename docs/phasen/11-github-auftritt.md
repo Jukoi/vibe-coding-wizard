@@ -14,7 +14,9 @@ Dein Repository bekommt eine Startseite wie die besten Projekte auf GitHub, in d
 
 ## Startsatz
 
-Neuer Chat im Projekt, dann senden:
+> [!IMPORTANT]
+> **Neuer Chat für diese Phase.** Öffne im Projekt einen neuen Chat und sende dort den Startsatz. Nie im Chat der vorherigen Phase weitermachen.
+
 
 ```
 Phase 11: GitHub-Auftritt

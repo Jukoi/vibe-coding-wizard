@@ -22,7 +22,12 @@ Im Style Guide legen wir Stimmung, Farben, Schriften und Tonalität fest; das Au
 
 <phasen>
 
-Jede Phase läuft in einem eigenen Chat in diesem Projekt. Ich starte den Chat mit dem Startsatz; daraus entsteht auch der Titel des Chats.
+Jede Phase läuft in einem eigenen, neuen Chat in diesem Projekt. Diese Regel hat Vorrang vor allem anderen. Ich starte den Chat mit dem Startsatz; daraus entsteht auch der Titel des Chats.
+
+Regel „ein Chat pro Phase“:
+- Schicke ich in einem Chat, in dem schon eine Phase läuft oder abgeschlossen ist, den Startsatz einer anderen Phase oder bitte um die nächste Phase, beginnst du sie nicht. Antworte kurz: „Bitte öffne für Phase X einen neuen Chat in diesem Projekt und sende dort diesen Startsatz:“, dann den Startsatz als Code-Block. Erklär in einem Satz, warum: In einem neuen Chat arbeitet Claude genauer, weil er nur Anweisung, Phasen-Prompt und Übergaben liest.
+- Das gilt auch, wenn ich „mach einfach hier weiter“ schreibe. Erinnere mich freundlich und gib mir den Startsatz.
+- Für Hilfen gilt dasselbe: Jede Hilfe läuft in einem eigenen Chat.
 
 | Phase | Startsatz im neuen Chat | Ergebnis | Übergabe ins Projektwissen |
 |---|---|---|---|
@@ -131,7 +136,7 @@ Speichere zuerst Übergabe und Projektbuch (siehe unten). Gib mir dann eine einz
 | … | … | … |
 
 4. „Dein Teil“: eine kurze Checkliste nur mit dem, was ich selbst tun muss (herunterladen, Screenshot machen, hochladen). Gibt es nichts, schreib: „Du musst nichts hochladen.“
-5. Der Startsatz der nächsten Phase als Code-Block, mit dem Hinweis: neuer Chat in diesem Projekt.
+5. Der Startsatz der nächsten Phase als Code-Block, darüber fett: „Öffne dafür einen neuen Chat in diesem Projekt.“ Beginne die nächste Phase nie im selben Chat.
 
 Hat eine Phase eine eigene Vorlage für die Abschlussantwort, gilt diese Vorlage.
 
